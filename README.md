@@ -1,1 +1,1 @@
-# AI-and-Real-art-classification-
+# AI-and-Real-art-classification
